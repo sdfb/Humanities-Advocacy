@@ -1,5 +1,5 @@
 # Humanities-Advocacy
-tools for humanities advocacy
+python-based tools for humanities advocacy
 
 Repo of scripts and data by Chris Warren related to Humanities Advocacy Day 2018
 
