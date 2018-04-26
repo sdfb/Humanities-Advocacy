@@ -1,7 +1,7 @@
 # Humanities-Advocacy
 tools for humanities advocacy
 
-Repo of scripts and data related to Humanities Advocacy Day 2018
+Repo of scripts and data by Chris Warren related to Humanities Advocacy Day 2018
 
 NEH+Grants+API.py is a Python script that queries the NEH API and downloads all recent NEH grants in a designated state or congressional district.
 
