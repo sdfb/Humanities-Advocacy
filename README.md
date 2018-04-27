@@ -5,4 +5,4 @@ tiny (but growing?) repo of scripts and data related to Humanities Advocacy Day 
 
 NEH+Grants+API.py is a Python script that queries the NEH API and downloads all recent NEH grants in a designated state or congressional district.
 
-PA HUD18 Tweets.ipynb is Jupyter Notebook that takes in a CSV of Congressional delagates' Twitter handles and a template talking points, and returns Tweet texts for each member of Congress.  
+PA HUD18 Tweets.ipynb is Jupyter Notebook that takes in a CSV of Congressional delagates' Twitter handles and template talking points, and returns Tweet texts for each member of Congress.  
